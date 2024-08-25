@@ -8,4 +8,5 @@
         -> run npm install
         -> run npm start
         -> open browser and type http://localhost:3000 in url
-        ![image](https://github.com/user-attachments/assets/bc3707ee-7fda-4025-ab88-4cdb101a0c03)
+![image](https://github.com/user-attachments/assets/abf67881-9c58-4d2e-8688-e714388d50e9)
+
